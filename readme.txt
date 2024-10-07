@@ -1,2 +1,3 @@
 Welcome To My Project
-Author:Thomas Tupac
+Author:Thomas Huber
+Twitter: @tupac

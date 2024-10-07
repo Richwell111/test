@@ -1,2 +1,2 @@
 Welcome To My Project
-Author:Thomas
+Author:Thomas Tupac

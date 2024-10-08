@@ -1,2 +1,4 @@
 Welcome To My Project
-Author:
+Author:Albert Hubert
+Twitter: @albetrhubert
+Website : www.albert.com
